@@ -1,29 +1,23 @@
-Este repositório contém meus estudos e práticas sobre conceitos básicos de JavaScript. Estou começando minha jornada como programador e aqui você vai encontrar exemplos simples e exercícios de fixação.
+🚀 APRENDENDO JAVASCRIPT 🚀
+OLÁ! 👋
+ESTE REPOSITÓRIO CONTÉM MEUS ESTUDOS E PRÁTICAS SOBRE CONCEITOS BÁSICOS DE JAVASCRIPT.
+ESTOU COMEÇANDO MINHA JORNADA COMO PROGRAMADOR E AQUI VOCÊ VAI ENCONTRAR EXEMPLOS SIMPLES E EXERCÍCIOS DE FIXAÇÃO.
 
-📚 O que estou aprendendo:
-Declaração de variáveis (let, const, var);
+📚 O QUE ESTOU APRENDENDO:
+✅ DECLARAÇÃO DE VARIÁVEIS (LET, CONST, VAR)
+✅ TIPOS DE DADOS (STRING, NUMBER, BOOLEAN, NULL, UNDEFINED)
+✅ OPERADORES ARITMÉTICOS E LÓGICOS
+✅ ESTRUTURAS DE CONTROLE (IF, ELSE)
+✅ MANIPULAÇÃO DE STRINGS (TOUPPERCASE, TOLOWERCASE, SLICE, ETC.)
+✅ CONVERSÃO DE TIPOS (STRING(), NUMBER(), PARSEINT())
 
-Tipos de dados (string, number, boolean, null, undefined);
+🛠️ COMO ESTOU PRATICANDO:
+🔹 FAZENDO PEQUENOS EXERCÍCIOS
+🔹 CRIANDO SCRIPTS PARA AUTOMATIZAR TAREFAS SIMPLES
+🔹 COMPARTILHANDO MEU PROGRESSO AQUI NO GITHUB
 
-Operadores aritméticos e lógicos;
+🚀 PRÓXIMOS PASSOS:
+➡️ FUNÇÕES
+➡️ ARRAYS E OBJETOS
+➡️ MANIPULAÇÃO DO DOM
 
-Estruturas de controle (if, else);
-
-
-Manipulação de strings (toUpperCase, toLowerCase, slice, etc.);
-
-Conversão de tipos (String(), Number(), parseInt()).
-
-🛠️ Como estou praticando:
-Fazendo pequenos exercícios;
-
-Criando scripts para automatizar tarefas simples;
-
-Compartilhando meu progresso aqui no GitHub.
-
-🚀 Próximos passos:
-Funções;
-
-Arrays e objetos;
-
-Manipulação do DOM.
